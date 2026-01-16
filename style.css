@@ -52,3 +52,21 @@ body {
     background: #444;
     color: white;
 }
+#controles {
+    position: fixed;
+    bottom: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+#controles button {
+    width: 80px;
+    height: 80px;
+    font-size: 30px;
+    border-radius: 50%;
+    border: none;
+    background: #222;
+    color: white;
+}
+
